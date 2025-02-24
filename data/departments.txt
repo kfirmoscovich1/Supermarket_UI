@@ -1,0 +1,4 @@
+1,GreenGrocer
+2,Butchery
+3,Deli
+4,DryGoods

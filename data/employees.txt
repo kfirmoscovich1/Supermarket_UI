@@ -1,0 +1,20 @@
+1004,Michael Moore,27,123-456-7896,Cashier,Name Tag,Vest
+1005,Sarah Taylor,45,123-456-7897,Cashier,Name Tag,Vest
+1006,David Anderson,33,123-456-7898,Cashier,Name Tag,Vest
+1007,Linda Thomas,29,123-456-7899,Cashier,Name Tag,Vest
+1008,Robert Jackson,38,123-456-7800,Stocker,Cap,Safety Boots
+1009,Mary White,36,123-456-7801,Stocker,Cap,Safety Boots
+1010,James Harris,42,123-456-7802,Stocker,Cap,Safety Boots
+1011,Patricia Martin,34,123-456-7803,Stocker,Cap,Safety Boots
+1012,Christopher Lee,31,123-456-7804,Stocker,Cap,Safety Boots
+1013,Daniel Perez,37,123-456-7805,ShiftManager,Walkie-Talkie,Tablet
+1014,Paul Brown,41,123-456-7806,ShiftManager,Walkie-Talkie,Tablet
+1016,Mark Hall,50,123-456-7808,GeneralManager,Office Key,Company Car
+1017,Karen Allen,39,123-456-7809,GeneralManager,Office Key,Company Car
+1020,Johny,27,098546732,GeneralManager,Office Key,Company Car
+1001,Jane,45,65465674,cashier,Name Tag,Vest
+1002,jim,34,7865475,CASHIER,Name Tag,Vest
+2020,yemi,54,7653563457,Cashier,Name Tag,Vest
+3020,James,34,6543454674567,Stocker,Cap,Safety Boots
+2040,yeti,54,6543634563,Shiftmanager,Walkie-Talkie,Tablet
+4545,tali,45,65438943224,GeneralManager,Office Key,Company Car
